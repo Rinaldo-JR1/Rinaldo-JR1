@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rinaldo Uchoa Pontes Junior</h1>
-<h3 align="center">A junior developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinaldo-jr1&label=Profile%20views&color=0e75b6&style=flat" alt="rinaldo-jr1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rinaldo-jr1" alt="rinaldo-jr1" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, AWS services**
+- 🌱 I’m currently learning **AWS services**
 
 - 📫 How to reach me **rinaldo3uchoa@gmail.com**
 
