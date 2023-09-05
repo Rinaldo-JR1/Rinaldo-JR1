@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rinaldo-jr1" alt="rinaldo-jr1" /></a> </p>
 
-- 🌱 I’m currently learning **AWS services**
-
 - 📫 How to reach me **rinaldo3uchoa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
