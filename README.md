@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hy there || Olá 👋</h1>
+<h1 align="center">Hi there || Olá 👋</h1>
 
 ###
 
